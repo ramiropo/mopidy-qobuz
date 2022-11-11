@@ -22,6 +22,8 @@ class Extension(ext.Extension):
 
         schema["username"] = config.String()
         schema["password"] = config.Secret()
+        schema["app_id"] = config.String()
+        schema["secrets"] = config.Secret()
 
         return schema
 

@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "mopidy-qobuz"
+version = "0.1.0"
+description = "Mopidy extension for playing music from Qobuz"
+authors = ["Ramiro Perez <ramiroperezosan@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+packages = [{include = "mopidy_qobuz"}]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+Mopidy = "^3.0"
+
+[tool.poetry.group.dev.dependencies]
+mock = "^4"
+mypy = "^0"
+pytest = "^7.2.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

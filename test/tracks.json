@@ -1,0 +1,987 @@
+{
+  "query": "farmaecopia",
+  "tracks": {
+    "limit": 10,
+    "offset": 0,
+    "analytics": {
+      "search_external_id": "a3be30dd2277a44923d573d6358af803"
+    },
+    "total": 18,
+    "items": [
+      {
+        "maximum_bit_depth": 16,
+        "copyright": "2022 Chainsaw Entertainment SL",
+        "performers": "L.S.M., MainArtist - L. S. M., Composer, Lyricist",
+        "audio_info": {
+          "replaygain_track_peak": 1,
+          "replaygain_track_gain": -11.65
+        },
+        "performer": {
+          "name": "L.S.M.",
+          "id": 13710776
+        },
+        "album": {
+          "image": {
+            "small": "https://static.qobuz.com/images/covers/na/2h/xwvrhbzdq2hna_230.jpg",
+            "thumbnail": "https://static.qobuz.com/images/covers/na/2h/xwvrhbzdq2hna_50.jpg",
+            "large": "https://static.qobuz.com/images/covers/na/2h/xwvrhbzdq2hna_600.jpg"
+          },
+          "maximum_bit_depth": 16,
+          "media_count": 1,
+          "artist": {
+            "image": null,
+            "name": "L.S.M.",
+            "id": 13710776,
+            "albums_count": 3,
+            "slug": "lsm-1",
+            "picture": null
+          },
+          "upc": "0196862909572",
+          "released_at": 1651010400,
+          "label": {
+            "name": "Chainsaw Entertainment SL",
+            "id": 2954647,
+            "albums_count": 8,
+            "supplier_id": 128,
+            "slug": "chainsaw-entertainment-sl"
+          },
+          "title": "Bienvenidos al Paraiso",
+          "qobuz_id": 156162863,
+          "version": null,
+          "duration": 2455,
+          "parental_warning": false,
+          "tracks_count": 11,
+          "popularity": 0,
+          "genre": {
+            "path": [
+              112,
+              119,
+              118
+            ],
+            "color": "#0070ef",
+            "name": "Punk - New Wave",
+            "id": 118,
+            "slug": "punk-new-wave"
+          },
+          "maximum_channel_count": 2,
+          "id": "xwvrhbzdq2hna",
+          "maximum_sampling_rate": 44.1,
+          "previewable": true,
+          "sampleable": true,
+          "displayable": true,
+          "streamable": true,
+          "streamable_at": 1651201200,
+          "downloadable": false,
+          "purchasable_at": null,
+          "purchasable": false,
+          "release_date_original": "2022-04-27",
+          "release_date_download": "2022-04-27",
+          "release_date_stream": "2022-04-27",
+          "hires": false,
+          "hires_streamable": false
+        },
+        "work": null,
+        "composer": {
+          "name": "L. S. M.",
+          "id": 13775334
+        },
+        "isrc": "QZHN72258277",
+        "title": "Farmacoviandante",
+        "version": null,
+        "duration": 179,
+        "parental_warning": false,
+        "track_number": 2,
+        "maximum_channel_count": 2,
+        "id": 156162865,
+        "media_number": 1,
+        "maximum_sampling_rate": 44.1,
+        "release_date_original": null,
+        "release_date_download": null,
+        "release_date_stream": null,
+        "purchasable": false,
+        "streamable": true,
+        "previewable": true,
+        "sampleable": true,
+        "downloadable": false,
+        "displayable": true,
+        "purchasable_at": null,
+        "streamable_at": 1651201200,
+        "hires": false,
+        "hires_streamable": false
+      },
+      {
+        "maximum_bit_depth": 24,
+        "copyright": "2022 Davo DaFuck 2022 Davo DaFuck",
+        "performers": "David Gomez, ComposerLyricist - Davo Dafuck, MainArtist",
+        "audio_info": {
+          "replaygain_track_peak": 1,
+          "replaygain_track_gain": -9.63
+        },
+        "performer": {
+          "name": "Davo Dafuck",
+          "id": 10849306
+        },
+        "album": {
+          "image": {
+            "small": "https://static.qobuz.com/images/covers/ta/ww/fmi5lfm43wwta_230.jpg",
+            "thumbnail": "https://static.qobuz.com/images/covers/ta/ww/fmi5lfm43wwta_50.jpg",
+            "large": "https://static.qobuz.com/images/covers/ta/ww/fmi5lfm43wwta_600.jpg"
+          },
+          "maximum_bit_depth": 24,
+          "media_count": 1,
+          "artist": {
+            "image": null,
+            "name": "Davo Dafuck",
+            "id": 10849306,
+            "albums_count": 2,
+            "slug": "davo-dafuck",
+            "picture": null
+          },
+          "upc": "0798339287574",
+          "released_at": 1650924000,
+          "label": {
+            "name": "Davo DaFuck",
+            "id": 2974726,
+            "albums_count": 3,
+            "supplier_id": 138,
+            "slug": "davo-dafuck"
+          },
+          "title": "Farmacopea",
+          "qobuz_id": 180354274,
+          "version": null,
+          "duration": 228,
+          "parental_warning": true,
+          "tracks_count": 1,
+          "popularity": 0,
+          "genre": {
+            "path": [
+              133
+            ],
+            "color": "#0070ef",
+            "name": "Hip-Hop/Rap",
+            "id": 133,
+            "slug": "rap-hip-hop"
+          },
+          "maximum_channel_count": 2,
+          "id": "fmi5lfm43wwta",
+          "maximum_sampling_rate": 48,
+          "previewable": true,
+          "sampleable": true,
+          "displayable": true,
+          "streamable": true,
+          "streamable_at": 1665889200,
+          "downloadable": false,
+          "purchasable_at": null,
+          "purchasable": false,
+          "release_date_original": "2022-04-26",
+          "release_date_download": "2022-04-26",
+          "release_date_stream": "2022-04-26",
+          "hires": true,
+          "hires_streamable": true
+        },
+        "work": null,
+        "composer": {
+          "name": "David Gomez",
+          "id": 619797
+        },
+        "isrc": "QZHZ42231971",
+        "title": "Farmacopea",
+        "version": null,
+        "duration": 228,
+        "parental_warning": false,
+        "track_number": 1,
+        "maximum_channel_count": 2,
+        "id": 180354275,
+        "media_number": 1,
+        "maximum_sampling_rate": 48,
+        "release_date_original": null,
+        "release_date_download": null,
+        "release_date_stream": null,
+        "purchasable": false,
+        "streamable": true,
+        "previewable": true,
+        "sampleable": true,
+        "downloadable": false,
+        "displayable": true,
+        "purchasable_at": null,
+        "streamable_at": 1665889200,
+        "hires": true,
+        "hires_streamable": true
+      },
+      {
+        "maximum_bit_depth": 24,
+        "copyright": "2016 Farmacopéia 2016 Farmacopéia",
+        "performers": "Thales Silva, ComposerLyricist - Alex Fernandes, ComposerLyricist - Nikolas Oliver, ComposerLyricist - Renato Albuquerque, ComposerLyricist - Farmacopéia, MainArtist",
+        "audio_info": {
+          "replaygain_track_peak": 0.9729,
+          "replaygain_track_gain": -6.93
+        },
+        "performer": {
+          "name": "Farmacopéia",
+          "id": 15073917
+        },
+        "album": {
+          "image": {
+            "small": "https://static.qobuz.com/images/covers/ub/g3/mpk9oziapg3ub_230.jpg",
+            "thumbnail": "https://static.qobuz.com/images/covers/ub/g3/mpk9oziapg3ub_50.jpg",
+            "large": "https://static.qobuz.com/images/covers/ub/g3/mpk9oziapg3ub_600.jpg"
+          },
+          "maximum_bit_depth": 24,
+          "media_count": 1,
+          "artist": {
+            "image": null,
+            "name": "Farmacopéia",
+            "id": 15073917,
+            "albums_count": 0,
+            "slug": "farmacopeia",
+            "picture": null
+          },
+          "upc": "0700118920305",
+          "released_at": 1464472800,
+          "label": {
+            "name": "Farmacopéia",
+            "id": 3692902,
+            "albums_count": 0,
+            "supplier_id": 138,
+            "slug": "farmacopeia"
+          },
+          "title": "Vazio / Enigmas",
+          "qobuz_id": 167770666,
+          "version": null,
+          "duration": 649,
+          "parental_warning": false,
+          "tracks_count": 2,
+          "popularity": 0,
+          "genre": {
+            "path": [
+              112
+            ],
+            "color": "#0070ef",
+            "name": "Pop/Rock",
+            "id": 112,
+            "slug": "pop-rock"
+          },
+          "maximum_channel_count": 2,
+          "id": "mpk9oziapg3ub",
+          "maximum_sampling_rate": 44.1,
+          "previewable": true,
+          "sampleable": true,
+          "displayable": true,
+          "streamable": true,
+          "streamable_at": 1659150000,
+          "downloadable": false,
+          "purchasable_at": null,
+          "purchasable": false,
+          "release_date_original": "2016-05-29",
+          "release_date_download": "2016-05-29",
+          "release_date_stream": "2016-05-29",
+          "hires": true,
+          "hires_streamable": true
+        },
+        "work": null,
+        "composer": {
+          "name": "Renato Albuquerque",
+          "id": 13006864
+        },
+        "isrc": "US7VG1664634",
+        "title": "Enigmas dos Infinitos Dias",
+        "version": null,
+        "duration": 417,
+        "parental_warning": false,
+        "track_number": 2,
+        "maximum_channel_count": 2,
+        "id": 167770668,
+        "media_number": 1,
+        "maximum_sampling_rate": 44.1,
+        "release_date_original": null,
+        "release_date_download": null,
+        "release_date_stream": null,
+        "purchasable": false,
+        "streamable": true,
+        "previewable": true,
+        "sampleable": true,
+        "downloadable": false,
+        "displayable": true,
+        "purchasable_at": null,
+        "streamable_at": 1659150000,
+        "hires": true,
+        "hires_streamable": true
+      },
+      {
+        "maximum_bit_depth": 24,
+        "copyright": "2016 Farmacopéia 2016 Farmacopéia",
+        "performers": "Thales Silva, ComposerLyricist - Alex Fernandes, ComposerLyricist - Nikolas Oliver, ComposerLyricist - Renato Albuquerque, ComposerLyricist - Farmacopéia, MainArtist",
+        "audio_info": {
+          "replaygain_track_peak": 0.935394,
+          "replaygain_track_gain": -10.86
+        },
+        "performer": {
+          "name": "Farmacopéia",
+          "id": 15073917
+        },
+        "album": {
+          "image": {
+            "small": "https://static.qobuz.com/images/covers/ub/g3/mpk9oziapg3ub_230.jpg",
+            "thumbnail": "https://static.qobuz.com/images/covers/ub/g3/mpk9oziapg3ub_50.jpg",
+            "large": "https://static.qobuz.com/images/covers/ub/g3/mpk9oziapg3ub_600.jpg"
+          },
+          "maximum_bit_depth": 24,
+          "media_count": 1,
+          "artist": {
+            "image": null,
+            "name": "Farmacopéia",
+            "id": 15073917,
+            "albums_count": 0,
+            "slug": "farmacopeia",
+            "picture": null
+          },
+          "upc": "0700118920305",
+          "released_at": 1464472800,
+          "label": {
+            "name": "Farmacopéia",
+            "id": 3692902,
+            "albums_count": 0,
+            "supplier_id": 138,
+            "slug": "farmacopeia"
+          },
+          "title": "Vazio / Enigmas",
+          "qobuz_id": 167770666,
+          "version": null,
+          "duration": 649,
+          "parental_warning": false,
+          "tracks_count": 2,
+          "popularity": 0,
+          "genre": {
+            "path": [
+              112
+            ],
+            "color": "#0070ef",
+            "name": "Pop/Rock",
+            "id": 112,
+            "slug": "pop-rock"
+          },
+          "maximum_channel_count": 2,
+          "id": "mpk9oziapg3ub",
+          "maximum_sampling_rate": 44.1,
+          "previewable": true,
+          "sampleable": true,
+          "displayable": true,
+          "streamable": true,
+          "streamable_at": 1659150000,
+          "downloadable": false,
+          "purchasable_at": null,
+          "purchasable": false,
+          "release_date_original": "2016-05-29",
+          "release_date_download": "2016-05-29",
+          "release_date_stream": "2016-05-29",
+          "hires": true,
+          "hires_streamable": true
+        },
+        "work": null,
+        "composer": {
+          "name": "Renato Albuquerque",
+          "id": 13006864
+        },
+        "isrc": "US7VG1664633",
+        "title": "Vazio",
+        "version": null,
+        "duration": 232,
+        "parental_warning": false,
+        "track_number": 1,
+        "maximum_channel_count": 2,
+        "id": 167770667,
+        "media_number": 1,
+        "maximum_sampling_rate": 44.1,
+        "release_date_original": null,
+        "release_date_download": null,
+        "release_date_stream": null,
+        "purchasable": false,
+        "streamable": true,
+        "previewable": true,
+        "sampleable": true,
+        "downloadable": false,
+        "displayable": true,
+        "purchasable_at": null,
+        "streamable_at": 1659150000,
+        "hires": true,
+        "hires_streamable": true
+      },
+      {
+        "maximum_bit_depth": 16,
+        "copyright": "2015 Santo Grial Producciones 2015 Santo Grial Produccioness",
+        "performers": "Experimento Quatermass, MainArtist - Manolo Taylor, Producer",
+        "audio_info": {
+          "replaygain_track_peak": 1,
+          "replaygain_track_gain": -6.23
+        },
+        "performer": {
+          "name": "Experimento Quatermass",
+          "id": 4089364
+        },
+        "album": {
+          "image": {
+            "small": "https://static.qobuz.com/images/covers/1a/nb/k3nc5bjvwnb1a_230.jpg",
+            "thumbnail": "https://static.qobuz.com/images/covers/1a/nb/k3nc5bjvwnb1a_50.jpg",
+            "large": "https://static.qobuz.com/images/covers/1a/nb/k3nc5bjvwnb1a_600.jpg"
+          },
+          "maximum_bit_depth": 16,
+          "media_count": 1,
+          "artist": {
+            "image": null,
+            "name": "Experimento Quatermass",
+            "id": 4089364,
+            "albums_count": 1,
+            "slug": "experimento-quatermass",
+            "picture": null
+          },
+          "upc": "8436022720206",
+          "released_at": 1427238000,
+          "label": {
+            "name": "Santo grial producciones",
+            "id": 255422,
+            "albums_count": 302,
+            "supplier_id": 96,
+            "slug": "santo-grial-producciones-1"
+          },
+          "title": "Farmoscopia",
+          "qobuz_id": 55279771,
+          "version": null,
+          "duration": 2534,
+          "parental_warning": false,
+          "tracks_count": 13,
+          "popularity": 0,
+          "genre": {
+            "path": [
+              112,
+              119
+            ],
+            "color": "#0070ef",
+            "name": "Rock",
+            "id": 119,
+            "slug": "rock"
+          },
+          "maximum_channel_count": 2,
+          "id": "k3nc5bjvwnb1a",
+          "maximum_sampling_rate": 44.1,
+          "previewable": true,
+          "sampleable": true,
+          "displayable": true,
+          "streamable": true,
+          "streamable_at": 1655175600,
+          "downloadable": false,
+          "purchasable_at": null,
+          "purchasable": false,
+          "release_date_original": "2015-03-25",
+          "release_date_download": "2015-03-25",
+          "release_date_stream": "2015-03-25",
+          "hires": false,
+          "hires_streamable": false
+        },
+        "work": null,
+        "isrc": "ES7421500444",
+        "title": "*****",
+        "version": null,
+        "duration": 243,
+        "parental_warning": false,
+        "track_number": 13,
+        "maximum_channel_count": 2,
+        "id": 55279784,
+        "media_number": 1,
+        "maximum_sampling_rate": 44.1,
+        "release_date_original": null,
+        "release_date_download": null,
+        "release_date_stream": null,
+        "purchasable": false,
+        "streamable": true,
+        "previewable": true,
+        "sampleable": true,
+        "downloadable": false,
+        "displayable": true,
+        "purchasable_at": null,
+        "streamable_at": 1655175600,
+        "hires": false,
+        "hires_streamable": false
+      },
+      {
+        "maximum_bit_depth": 16,
+        "copyright": "2015 Santo Grial Producciones 2015 Santo Grial Produccioness",
+        "performers": "Experimento Quatermass, MainArtist - Manolo Taylor, Producer",
+        "audio_info": {
+          "replaygain_track_peak": 1,
+          "replaygain_track_gain": -5.58
+        },
+        "performer": {
+          "name": "Experimento Quatermass",
+          "id": 4089364
+        },
+        "album": {
+          "image": {
+            "small": "https://static.qobuz.com/images/covers/1a/nb/k3nc5bjvwnb1a_230.jpg",
+            "thumbnail": "https://static.qobuz.com/images/covers/1a/nb/k3nc5bjvwnb1a_50.jpg",
+            "large": "https://static.qobuz.com/images/covers/1a/nb/k3nc5bjvwnb1a_600.jpg"
+          },
+          "maximum_bit_depth": 16,
+          "media_count": 1,
+          "artist": {
+            "image": null,
+            "name": "Experimento Quatermass",
+            "id": 4089364,
+            "albums_count": 1,
+            "slug": "experimento-quatermass",
+            "picture": null
+          },
+          "upc": "8436022720206",
+          "released_at": 1427238000,
+          "label": {
+            "name": "Santo grial producciones",
+            "id": 255422,
+            "albums_count": 302,
+            "supplier_id": 96,
+            "slug": "santo-grial-producciones-1"
+          },
+          "title": "Farmoscopia",
+          "qobuz_id": 55279771,
+          "version": null,
+          "duration": 2534,
+          "parental_warning": false,
+          "tracks_count": 13,
+          "popularity": 0,
+          "genre": {
+            "path": [
+              112,
+              119
+            ],
+            "color": "#0070ef",
+            "name": "Rock",
+            "id": 119,
+            "slug": "rock"
+          },
+          "maximum_channel_count": 2,
+          "id": "k3nc5bjvwnb1a",
+          "maximum_sampling_rate": 44.1,
+          "previewable": true,
+          "sampleable": true,
+          "displayable": true,
+          "streamable": true,
+          "streamable_at": 1655175600,
+          "downloadable": false,
+          "purchasable_at": null,
+          "purchasable": false,
+          "release_date_original": "2015-03-25",
+          "release_date_download": "2015-03-25",
+          "release_date_stream": "2015-03-25",
+          "hires": false,
+          "hires_streamable": false
+        },
+        "work": null,
+        "isrc": "ES7421500442",
+        "title": "Experimento",
+        "version": null,
+        "duration": 217,
+        "parental_warning": false,
+        "track_number": 11,
+        "maximum_channel_count": 2,
+        "id": 55279782,
+        "media_number": 1,
+        "maximum_sampling_rate": 44.1,
+        "release_date_original": null,
+        "release_date_download": null,
+        "release_date_stream": null,
+        "purchasable": false,
+        "streamable": true,
+        "previewable": true,
+        "sampleable": true,
+        "downloadable": false,
+        "displayable": true,
+        "purchasable_at": null,
+        "streamable_at": 1655175600,
+        "hires": false,
+        "hires_streamable": false
+      },
+      {
+        "maximum_bit_depth": 16,
+        "copyright": "2015 Santo Grial Producciones 2015 Santo Grial Produccioness",
+        "performers": "Experimento Quatermass, MainArtist - Manolo Taylor, Producer",
+        "audio_info": {
+          "replaygain_track_peak": 1,
+          "replaygain_track_gain": -6.28
+        },
+        "performer": {
+          "name": "Experimento Quatermass",
+          "id": 4089364
+        },
+        "album": {
+          "image": {
+            "small": "https://static.qobuz.com/images/covers/1a/nb/k3nc5bjvwnb1a_230.jpg",
+            "thumbnail": "https://static.qobuz.com/images/covers/1a/nb/k3nc5bjvwnb1a_50.jpg",
+            "large": "https://static.qobuz.com/images/covers/1a/nb/k3nc5bjvwnb1a_600.jpg"
+          },
+          "maximum_bit_depth": 16,
+          "media_count": 1,
+          "artist": {
+            "image": null,
+            "name": "Experimento Quatermass",
+            "id": 4089364,
+            "albums_count": 1,
+            "slug": "experimento-quatermass",
+            "picture": null
+          },
+          "upc": "8436022720206",
+          "released_at": 1427238000,
+          "label": {
+            "name": "Santo grial producciones",
+            "id": 255422,
+            "albums_count": 302,
+            "supplier_id": 96,
+            "slug": "santo-grial-producciones-1"
+          },
+          "title": "Farmoscopia",
+          "qobuz_id": 55279771,
+          "version": null,
+          "duration": 2534,
+          "parental_warning": false,
+          "tracks_count": 13,
+          "popularity": 0,
+          "genre": {
+            "path": [
+              112,
+              119
+            ],
+            "color": "#0070ef",
+            "name": "Rock",
+            "id": 119,
+            "slug": "rock"
+          },
+          "maximum_channel_count": 2,
+          "id": "k3nc5bjvwnb1a",
+          "maximum_sampling_rate": 44.1,
+          "previewable": true,
+          "sampleable": true,
+          "displayable": true,
+          "streamable": true,
+          "streamable_at": 1655175600,
+          "downloadable": false,
+          "purchasable_at": null,
+          "purchasable": false,
+          "release_date_original": "2015-03-25",
+          "release_date_download": "2015-03-25",
+          "release_date_stream": "2015-03-25",
+          "hires": false,
+          "hires_streamable": false
+        },
+        "work": null,
+        "isrc": "ES7421500441",
+        "title": "Narco de Barco",
+        "version": null,
+        "duration": 188,
+        "parental_warning": false,
+        "track_number": 10,
+        "maximum_channel_count": 2,
+        "id": 55279781,
+        "media_number": 1,
+        "maximum_sampling_rate": 44.1,
+        "release_date_original": null,
+        "release_date_download": null,
+        "release_date_stream": null,
+        "purchasable": false,
+        "streamable": true,
+        "previewable": true,
+        "sampleable": true,
+        "downloadable": false,
+        "displayable": true,
+        "purchasable_at": null,
+        "streamable_at": 1655175600,
+        "hires": false,
+        "hires_streamable": false
+      },
+      {
+        "maximum_bit_depth": 16,
+        "copyright": "2015 Santo Grial Producciones 2015 Santo Grial Produccioness",
+        "performers": "Experimento Quatermass, MainArtist - Manolo Taylor, Producer",
+        "audio_info": {
+          "replaygain_track_peak": 1,
+          "replaygain_track_gain": -6.45
+        },
+        "performer": {
+          "name": "Experimento Quatermass",
+          "id": 4089364
+        },
+        "album": {
+          "image": {
+            "small": "https://static.qobuz.com/images/covers/1a/nb/k3nc5bjvwnb1a_230.jpg",
+            "thumbnail": "https://static.qobuz.com/images/covers/1a/nb/k3nc5bjvwnb1a_50.jpg",
+            "large": "https://static.qobuz.com/images/covers/1a/nb/k3nc5bjvwnb1a_600.jpg"
+          },
+          "maximum_bit_depth": 16,
+          "media_count": 1,
+          "artist": {
+            "image": null,
+            "name": "Experimento Quatermass",
+            "id": 4089364,
+            "albums_count": 1,
+            "slug": "experimento-quatermass",
+            "picture": null
+          },
+          "upc": "8436022720206",
+          "released_at": 1427238000,
+          "label": {
+            "name": "Santo grial producciones",
+            "id": 255422,
+            "albums_count": 302,
+            "supplier_id": 96,
+            "slug": "santo-grial-producciones-1"
+          },
+          "title": "Farmoscopia",
+          "qobuz_id": 55279771,
+          "version": null,
+          "duration": 2534,
+          "parental_warning": false,
+          "tracks_count": 13,
+          "popularity": 0,
+          "genre": {
+            "path": [
+              112,
+              119
+            ],
+            "color": "#0070ef",
+            "name": "Rock",
+            "id": 119,
+            "slug": "rock"
+          },
+          "maximum_channel_count": 2,
+          "id": "k3nc5bjvwnb1a",
+          "maximum_sampling_rate": 44.1,
+          "previewable": true,
+          "sampleable": true,
+          "displayable": true,
+          "streamable": true,
+          "streamable_at": 1655175600,
+          "downloadable": false,
+          "purchasable_at": null,
+          "purchasable": false,
+          "release_date_original": "2015-03-25",
+          "release_date_download": "2015-03-25",
+          "release_date_stream": "2015-03-25",
+          "hires": false,
+          "hires_streamable": false
+        },
+        "work": null,
+        "isrc": "ES7421500440",
+        "title": "K.l.f.",
+        "version": null,
+        "duration": 271,
+        "parental_warning": false,
+        "track_number": 9,
+        "maximum_channel_count": 2,
+        "id": 55279780,
+        "media_number": 1,
+        "maximum_sampling_rate": 44.1,
+        "release_date_original": null,
+        "release_date_download": null,
+        "release_date_stream": null,
+        "purchasable": false,
+        "streamable": true,
+        "previewable": true,
+        "sampleable": true,
+        "downloadable": false,
+        "displayable": true,
+        "purchasable_at": null,
+        "streamable_at": 1655175600,
+        "hires": false,
+        "hires_streamable": false
+      },
+      {
+        "maximum_bit_depth": 16,
+        "copyright": "2015 Santo Grial Producciones 2015 Santo Grial Produccioness",
+        "performers": "Experimento Quatermass, MainArtist - Manolo Taylor, Producer",
+        "audio_info": {
+          "replaygain_track_peak": 1,
+          "replaygain_track_gain": -6.31
+        },
+        "performer": {
+          "name": "Experimento Quatermass",
+          "id": 4089364
+        },
+        "album": {
+          "image": {
+            "small": "https://static.qobuz.com/images/covers/1a/nb/k3nc5bjvwnb1a_230.jpg",
+            "thumbnail": "https://static.qobuz.com/images/covers/1a/nb/k3nc5bjvwnb1a_50.jpg",
+            "large": "https://static.qobuz.com/images/covers/1a/nb/k3nc5bjvwnb1a_600.jpg"
+          },
+          "maximum_bit_depth": 16,
+          "media_count": 1,
+          "artist": {
+            "image": null,
+            "name": "Experimento Quatermass",
+            "id": 4089364,
+            "albums_count": 1,
+            "slug": "experimento-quatermass",
+            "picture": null
+          },
+          "upc": "8436022720206",
+          "released_at": 1427238000,
+          "label": {
+            "name": "Santo grial producciones",
+            "id": 255422,
+            "albums_count": 302,
+            "supplier_id": 96,
+            "slug": "santo-grial-producciones-1"
+          },
+          "title": "Farmoscopia",
+          "qobuz_id": 55279771,
+          "version": null,
+          "duration": 2534,
+          "parental_warning": false,
+          "tracks_count": 13,
+          "popularity": 0,
+          "genre": {
+            "path": [
+              112,
+              119
+            ],
+            "color": "#0070ef",
+            "name": "Rock",
+            "id": 119,
+            "slug": "rock"
+          },
+          "maximum_channel_count": 2,
+          "id": "k3nc5bjvwnb1a",
+          "maximum_sampling_rate": 44.1,
+          "previewable": true,
+          "sampleable": true,
+          "displayable": true,
+          "streamable": true,
+          "streamable_at": 1655175600,
+          "downloadable": false,
+          "purchasable_at": null,
+          "purchasable": false,
+          "release_date_original": "2015-03-25",
+          "release_date_download": "2015-03-25",
+          "release_date_stream": "2015-03-25",
+          "hires": false,
+          "hires_streamable": false
+        },
+        "work": null,
+        "isrc": "ES7421500439",
+        "title": "Caleidoscopio",
+        "version": null,
+        "duration": 198,
+        "parental_warning": false,
+        "track_number": 8,
+        "maximum_channel_count": 2,
+        "id": 55279779,
+        "media_number": 1,
+        "maximum_sampling_rate": 44.1,
+        "release_date_original": null,
+        "release_date_download": null,
+        "release_date_stream": null,
+        "purchasable": false,
+        "streamable": true,
+        "previewable": true,
+        "sampleable": true,
+        "downloadable": false,
+        "displayable": true,
+        "purchasable_at": null,
+        "streamable_at": 1655175600,
+        "hires": false,
+        "hires_streamable": false
+      },
+      {
+        "maximum_bit_depth": 16,
+        "copyright": "2015 Santo Grial Producciones 2015 Santo Grial Produccioness",
+        "performers": "Experimento Quatermass, MainArtist - Manolo Taylor, Producer",
+        "audio_info": {
+          "replaygain_track_peak": 1,
+          "replaygain_track_gain": -6.6
+        },
+        "performer": {
+          "name": "Experimento Quatermass",
+          "id": 4089364
+        },
+        "album": {
+          "image": {
+            "small": "https://static.qobuz.com/images/covers/1a/nb/k3nc5bjvwnb1a_230.jpg",
+            "thumbnail": "https://static.qobuz.com/images/covers/1a/nb/k3nc5bjvwnb1a_50.jpg",
+            "large": "https://static.qobuz.com/images/covers/1a/nb/k3nc5bjvwnb1a_600.jpg"
+          },
+          "maximum_bit_depth": 16,
+          "media_count": 1,
+          "artist": {
+            "image": null,
+            "name": "Experimento Quatermass",
+            "id": 4089364,
+            "albums_count": 1,
+            "slug": "experimento-quatermass",
+            "picture": null
+          },
+          "upc": "8436022720206",
+          "released_at": 1427238000,
+          "label": {
+            "name": "Santo grial producciones",
+            "id": 255422,
+            "albums_count": 302,
+            "supplier_id": 96,
+            "slug": "santo-grial-producciones-1"
+          },
+          "title": "Farmoscopia",
+          "qobuz_id": 55279771,
+          "version": null,
+          "duration": 2534,
+          "parental_warning": false,
+          "tracks_count": 13,
+          "popularity": 0,
+          "genre": {
+            "path": [
+              112,
+              119
+            ],
+            "color": "#0070ef",
+            "name": "Rock",
+            "id": 119,
+            "slug": "rock"
+          },
+          "maximum_channel_count": 2,
+          "id": "k3nc5bjvwnb1a",
+          "maximum_sampling_rate": 44.1,
+          "previewable": true,
+          "sampleable": true,
+          "displayable": true,
+          "streamable": true,
+          "streamable_at": 1655175600,
+          "downloadable": false,
+          "purchasable_at": null,
+          "purchasable": false,
+          "release_date_original": "2015-03-25",
+          "release_date_download": "2015-03-25",
+          "release_date_stream": "2015-03-25",
+          "hires": false,
+          "hires_streamable": false
+        },
+        "work": null,
+        "isrc": "ES7421500438",
+        "title": "40.000 Soles",
+        "version": null,
+        "duration": 164,
+        "parental_warning": false,
+        "track_number": 7,
+        "maximum_channel_count": 2,
+        "id": 55279778,
+        "media_number": 1,
+        "maximum_sampling_rate": 44.1,
+        "release_date_original": null,
+        "release_date_download": null,
+        "release_date_stream": null,
+        "purchasable": false,
+        "streamable": true,
+        "previewable": true,
+        "sampleable": true,
+        "downloadable": false,
+        "displayable": true,
+        "purchasable_at": null,
+        "streamable_at": 1655175600,
+        "hires": false,
+        "hires_streamable": false
+      }
+    ]
+  }
+}

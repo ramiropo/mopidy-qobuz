@@ -1,0 +1,745 @@
+{
+  "query": "soundtrack",
+  "albums": {
+    "limit": 10,
+    "offset": 0,
+    "analytics": {
+      "search_external_id": "a3a105b232f33d5af52535e47f8436b5"
+    },
+    "total": 1000,
+    "items": [
+      {
+        "maximum_bit_depth": 24,
+        "image": {
+          "small": "https://static.qobuz.com/images/covers/yb/rz/wvnumwjbwrzyb_230.jpg",
+          "thumbnail": "https://static.qobuz.com/images/covers/yb/rz/wvnumwjbwrzyb_50.jpg",
+          "large": "https://static.qobuz.com/images/covers/yb/rz/wvnumwjbwrzyb_600.jpg",
+          "back": null
+        },
+        "media_count": 1,
+        "artist": {
+          "image": null,
+          "name": "Jimin , HA SUNG WOON",
+          "id": 13783872,
+          "albums_count": 1,
+          "slug": "jimin--ha-sung-woon",
+          "picture": null
+        },
+        "artists": [
+          {
+            "id": 13783872,
+            "name": "Jimin , HA SUNG WOON",
+            "roles": [
+              "main-artist"
+            ]
+          }
+        ],
+        "upc": "0888272098273",
+        "released_at": 1650751200,
+        "label": {
+          "name": "Genie Music Corporation, Stone Music Entertainment",
+          "id": 263778,
+          "albums_count": 3288,
+          "supplier_id": 17,
+          "slug": "genie-music-corporation-stone-music-entertainment"
+        },
+        "title": "Our Blues OST Part 4",
+        "qobuz_id": 155176479,
+        "version": null,
+        "url": "https://www.qobuz.com/fr-fr/album/our-blues-ost-part-4-jimin-ha-sung-woon/wvnumwjbwrzyb",
+        "duration": 402,
+        "parental_warning": false,
+        "popularity": 0,
+        "tracks_count": 2,
+        "genre": {
+          "path": [
+            91,
+            92
+          ],
+          "color": "#5eabc1",
+          "name": "Bandas sonoras de cine",
+          "id": 92,
+          "slug": "bandes-originales-de-films"
+        },
+        "maximum_channel_count": 2,
+        "id": "wvnumwjbwrzyb",
+        "maximum_sampling_rate": 48,
+        "articles": [],
+        "release_date_original": "2022-04-24",
+        "release_date_download": "2022-04-24",
+        "release_date_stream": "2022-04-24",
+        "purchasable": false,
+        "streamable": true,
+        "previewable": true,
+        "sampleable": true,
+        "downloadable": false,
+        "displayable": true,
+        "purchasable_at": null,
+        "streamable_at": 1650942000,
+        "hires": true,
+        "hires_streamable": true
+      },
+      {
+        "maximum_bit_depth": 24,
+        "image": {
+          "small": "https://static.qobuz.com/images/covers/0a/qr/t8aok37shqr0a_230.jpg",
+          "thumbnail": "https://static.qobuz.com/images/covers/0a/qr/t8aok37shqr0a_50.jpg",
+          "large": "https://static.qobuz.com/images/covers/0a/qr/t8aok37shqr0a_600.jpg",
+          "back": null
+        },
+        "media_count": 1,
+        "artist": {
+          "image": null,
+          "name": "ZZ Top",
+          "id": 56332,
+          "albums_count": 117,
+          "slug": "zz-top",
+          "picture": null
+        },
+        "artists": [
+          {
+            "id": 56332,
+            "name": "ZZ Top",
+            "roles": [
+              "main-artist"
+            ]
+          }
+        ],
+        "upc": "4050538807530",
+        "released_at": 1582844400,
+        "label": {
+          "name": "BMG Rights Management (US) LLC",
+          "id": 144378,
+          "albums_count": 2217,
+          "supplier_id": 5,
+          "slug": "bmg-rights-management-us-llc-1"
+        },
+        "title": "RAW ('That Little Ol' Band From Texas' Original Soundtrack)",
+        "qobuz_id": 150859224,
+        "version": null,
+        "url": "https://www.qobuz.com/fr-fr/album/raw-that-little-ol-band-from-texas-original-soundtrack-zz-top/t8aok37shqr0a",
+        "duration": 2763,
+        "parental_warning": false,
+        "popularity": 0,
+        "tracks_count": 12,
+        "genre": {
+          "path": [
+            112,
+            119
+          ],
+          "color": "#5eabc1",
+          "name": "Rock",
+          "id": 119,
+          "slug": "rock"
+        },
+        "maximum_channel_count": 2,
+        "id": "t8aok37shqr0a",
+        "maximum_sampling_rate": 96,
+        "articles": [],
+        "release_date_original": "2020-02-28",
+        "release_date_download": "2020-02-28",
+        "release_date_stream": "2020-02-28",
+        "purchasable": false,
+        "streamable": true,
+        "previewable": true,
+        "sampleable": true,
+        "downloadable": false,
+        "displayable": true,
+        "purchasable_at": null,
+        "streamable_at": 1660618800,
+        "hires": true,
+        "hires_streamable": true
+      },
+      {
+        "maximum_bit_depth": 24,
+        "image": {
+          "small": "https://static.qobuz.com/images/covers/ia/3v/du4uz84qi3via_230.jpg",
+          "thumbnail": "https://static.qobuz.com/images/covers/ia/3v/du4uz84qi3via_50.jpg",
+          "large": "https://static.qobuz.com/images/covers/ia/3v/du4uz84qi3via_600.jpg",
+          "back": null
+        },
+        "media_count": 1,
+        "artist": {
+          "image": null,
+          "name": "Hans Zimmer",
+          "id": 22522,
+          "albums_count": 591,
+          "slug": "hans-zimmer",
+          "picture": null
+        },
+        "artists": [
+          {
+            "id": 22522,
+            "name": "Hans Zimmer",
+            "roles": [
+              "main-artist"
+            ]
+          }
+        ],
+        "upc": "0794043205743",
+        "released_at": 1631829600,
+        "label": {
+          "name": "WaterTower Music",
+          "id": 301754,
+          "albums_count": 728,
+          "supplier_id": 5,
+          "slug": "watertower-music-3"
+        },
+        "title": "Dune (Original Motion Picture Soundtrack)",
+        "qobuz_id": 131659245,
+        "version": null,
+        "url": "https://www.qobuz.com/fr-fr/album/dune-original-motion-picture-soundtrack-hans-zimmer/du4uz84qi3via",
+        "duration": 4452,
+        "parental_warning": false,
+        "popularity": 0,
+        "tracks_count": 22,
+        "genre": {
+          "path": [
+            91,
+            92
+          ],
+          "color": "#5eabc1",
+          "name": "Bandas sonoras de cine",
+          "id": 92,
+          "slug": "bandes-originales-de-films"
+        },
+        "maximum_channel_count": 2,
+        "id": "du4uz84qi3via",
+        "maximum_sampling_rate": 48,
+        "articles": [],
+        "release_date_original": "2021-09-17",
+        "release_date_download": "2021-09-17",
+        "release_date_stream": "2021-09-17",
+        "purchasable": false,
+        "streamable": true,
+        "previewable": true,
+        "sampleable": true,
+        "downloadable": false,
+        "displayable": true,
+        "purchasable_at": null,
+        "streamable_at": 1658718000,
+        "hires": true,
+        "hires_streamable": true
+      },
+      {
+        "maximum_bit_depth": 24,
+        "image": {
+          "small": "https://static.qobuz.com/images/covers/ub/kt/previ0q8mktub_230.jpg",
+          "thumbnail": "https://static.qobuz.com/images/covers/ub/kt/previ0q8mktub_50.jpg",
+          "large": "https://static.qobuz.com/images/covers/ub/kt/previ0q8mktub_600.jpg",
+          "back": null
+        },
+        "media_count": 1,
+        "artist": {
+          "image": null,
+          "name": "Hans Zimmer",
+          "id": 22522,
+          "albums_count": 591,
+          "slug": "hans-zimmer",
+          "picture": null
+        },
+        "artists": [
+          {
+            "id": 22522,
+            "name": "Hans Zimmer",
+            "roles": [
+              "main-artist"
+            ]
+          }
+        ],
+        "upc": "0794043201943",
+        "released_at": 1416265200,
+        "label": {
+          "name": "WaterTower Music",
+          "id": 301754,
+          "albums_count": 728,
+          "supplier_id": 5,
+          "slug": "watertower-music-3"
+        },
+        "title": "Interstellar (Original Motion Picture Soundtrack) ",
+        "qobuz_id": 105398570,
+        "version": "Expanded Edition",
+        "url": "https://www.qobuz.com/fr-fr/album/interstellar-original-motion-picture-soundtrack-hans-zimmer/previ0q8mktub",
+        "duration": 8347,
+        "parental_warning": false,
+        "popularity": 0,
+        "tracks_count": 30,
+        "genre": {
+          "path": [
+            91,
+            92
+          ],
+          "color": "#5eabc1",
+          "name": "Bandas sonoras de cine",
+          "id": 92,
+          "slug": "bandes-originales-de-films"
+        },
+        "maximum_channel_count": 2,
+        "id": "previ0q8mktub",
+        "maximum_sampling_rate": 44.1,
+        "articles": [],
+        "release_date_original": "2014-11-18",
+        "release_date_download": "2014-11-18",
+        "release_date_stream": "2014-11-18",
+        "purchasable": false,
+        "streamable": true,
+        "previewable": true,
+        "sampleable": true,
+        "downloadable": false,
+        "displayable": true,
+        "purchasable_at": null,
+        "streamable_at": 1648954800,
+        "hires": true,
+        "hires_streamable": true
+      },
+      {
+        "maximum_bit_depth": 24,
+        "image": {
+          "small": "https://static.qobuz.com/images/covers/nb/g3/l0tf0b2e6g3nb_230.jpg",
+          "thumbnail": "https://static.qobuz.com/images/covers/nb/g3/l0tf0b2e6g3nb_50.jpg",
+          "large": "https://static.qobuz.com/images/covers/nb/g3/l0tf0b2e6g3nb_600.jpg",
+          "back": null
+        },
+        "media_count": 1,
+        "artist": {
+          "image": null,
+          "name": "Anne-Sophie Mutter",
+          "id": 35307,
+          "albums_count": 140,
+          "slug": "anne-sophie-mutter",
+          "picture": null
+        },
+        "artists": [
+          {
+            "id": 35307,
+            "name": "Anne-Sophie Mutter",
+            "roles": [
+              "main-artist",
+              "orchestra"
+            ]
+          },
+          {
+            "id": 37248,
+            "name": "Boston Symphony Orchestra",
+            "roles": [
+              "main-artist",
+              "orchestra"
+            ]
+          },
+          {
+            "id": 2101,
+            "name": "John Williams",
+            "roles": [
+              "main-artist",
+              "conductor"
+            ]
+          }
+        ],
+        "upc": "0028948617029",
+        "released_at": 1651788000,
+        "label": {
+          "name": "Deutsche Grammophon (DG)",
+          "id": 80905,
+          "albums_count": 8283,
+          "supplier_id": 1,
+          "slug": "deutsche-grammophon"
+        },
+        "title": "Williams: Violin Concerto No. 2 & Selected Film Themes",
+        "qobuz_id": 147618251,
+        "version": null,
+        "url": "https://www.qobuz.com/fr-fr/album/williams-violin-concerto-no-2-selected-film-themes-anne-sophie-mutter/l0tf0b2e6g3nb",
+        "duration": 3040,
+        "parental_warning": false,
+        "popularity": 0,
+        "tracks_count": 7,
+        "genre": {
+          "path": [
+            10
+          ],
+          "color": "#5eabc1",
+          "name": "Clásica",
+          "id": 10,
+          "slug": "classique"
+        },
+        "maximum_channel_count": 2,
+        "id": "l0tf0b2e6g3nb",
+        "maximum_sampling_rate": 96,
+        "articles": [],
+        "release_date_original": "2022-05-06",
+        "release_date_download": "2022-05-06",
+        "release_date_stream": "2022-05-06",
+        "purchasable": false,
+        "streamable": true,
+        "previewable": true,
+        "sampleable": true,
+        "downloadable": false,
+        "displayable": true,
+        "purchasable_at": null,
+        "streamable_at": 1658718000,
+        "hires": true,
+        "hires_streamable": true
+      },
+      {
+        "maximum_bit_depth": 24,
+        "image": {
+          "small": "https://static.qobuz.com/images/covers/kb/t7/mbto9y34et7kb_230.jpg",
+          "thumbnail": "https://static.qobuz.com/images/covers/kb/t7/mbto9y34et7kb_50.jpg",
+          "large": "https://static.qobuz.com/images/covers/kb/t7/mbto9y34et7kb_600.jpg",
+          "back": null
+        },
+        "media_count": 1,
+        "artist": {
+          "image": null,
+          "name": "Nick Cave",
+          "id": 46524,
+          "albums_count": 95,
+          "slug": "nick-cave",
+          "picture": null
+        },
+        "artists": [
+          {
+            "id": 46524,
+            "name": "Nick Cave",
+            "roles": [
+              "main-artist"
+            ]
+          },
+          {
+            "id": 46525,
+            "name": "Warren Ellis",
+            "roles": [
+              "main-artist"
+            ]
+          }
+        ],
+        "upc": "0780163613926",
+        "released_at": 1639695600,
+        "label": {
+          "name": "Lakeshore Records",
+          "id": 128685,
+          "albums_count": 1415,
+          "supplier_id": 17,
+          "slug": "lakeshore-records"
+        },
+        "title": "La Panthère Des Neiges (Original Soundtrack)",
+        "qobuz_id": 138970229,
+        "version": null,
+        "url": "https://www.qobuz.com/fr-fr/album/la-panthere-des-neiges-original-soundtrack-nick-cave-warren-ellis/mbto9y34et7kb",
+        "duration": 2678,
+        "parental_warning": false,
+        "popularity": 0,
+        "tracks_count": 13,
+        "genre": {
+          "path": [
+            91,
+            92
+          ],
+          "color": "#5eabc1",
+          "name": "Bandas sonoras de cine",
+          "id": 92,
+          "slug": "bandes-originales-de-films"
+        },
+        "maximum_channel_count": 2,
+        "id": "mbto9y34et7kb",
+        "maximum_sampling_rate": 44.1,
+        "articles": [],
+        "release_date_original": "2021-12-17",
+        "release_date_download": "2021-12-17",
+        "release_date_stream": "2021-12-17",
+        "purchasable": false,
+        "streamable": true,
+        "previewable": true,
+        "sampleable": true,
+        "downloadable": false,
+        "displayable": true,
+        "purchasable_at": null,
+        "streamable_at": 1647054000,
+        "hires": true,
+        "hires_streamable": true
+      },
+      {
+        "maximum_bit_depth": 24,
+        "image": {
+          "small": "https://static.qobuz.com/images/covers/bb/yy/xuh2y11e5yybb_230.jpg",
+          "thumbnail": "https://static.qobuz.com/images/covers/bb/yy/xuh2y11e5yybb_50.jpg",
+          "large": "https://static.qobuz.com/images/covers/bb/yy/xuh2y11e5yybb_600.jpg",
+          "back": null
+        },
+        "media_count": 1,
+        "artist": {
+          "image": null,
+          "name": "Michael Giacchino",
+          "id": 54037,
+          "albums_count": 261,
+          "slug": "michael-giacchino",
+          "picture": null
+        },
+        "artists": [
+          {
+            "id": 54037,
+            "name": "Michael Giacchino",
+            "roles": [
+              "main-artist"
+            ]
+          }
+        ],
+        "upc": "0794043210570",
+        "released_at": 1645657200,
+        "label": {
+          "name": "WaterTower Music",
+          "id": 301754,
+          "albums_count": 722,
+          "supplier_id": 5,
+          "slug": "watertower-music-3"
+        },
+        "title": "The Batman (Original Motion Picture Soundtrack)",
+        "qobuz_id": 148928040,
+        "version": null,
+        "url": "https://www.qobuz.com/fr-fr/album/the-batman-original-motion-picture-soundtrack-michael-giacchino/xuh2y11e5yybb",
+        "duration": 6959,
+        "parental_warning": false,
+        "popularity": 0,
+        "tracks_count": 29,
+        "genre": {
+          "path": [
+            91,
+            92
+          ],
+          "color": "#5eabc1",
+          "name": "Bandas sonoras de cine",
+          "id": 92,
+          "slug": "bandes-originales-de-films"
+        },
+        "maximum_channel_count": 2,
+        "id": "xuh2y11e5yybb",
+        "maximum_sampling_rate": 48,
+        "articles": [],
+        "release_date_original": "2022-02-24",
+        "release_date_download": "2022-02-24",
+        "release_date_stream": "2022-02-24",
+        "purchasable": false,
+        "streamable": true,
+        "previewable": true,
+        "sampleable": true,
+        "downloadable": false,
+        "displayable": true,
+        "purchasable_at": null,
+        "streamable_at": 1658718000,
+        "hires": true,
+        "hires_streamable": true
+      },
+      {
+        "maximum_bit_depth": 24,
+        "image": {
+          "small": "https://static.qobuz.com/images/covers/64/35/0884977723564_230.jpg",
+          "thumbnail": "https://static.qobuz.com/images/covers/64/35/0884977723564_50.jpg",
+          "large": "https://static.qobuz.com/images/covers/64/35/0884977723564_600.jpg",
+          "back": null
+        },
+        "media_count": 1,
+        "artist": {
+          "image": null,
+          "name": "Various Artists",
+          "id": 145383,
+          "albums_count": 79333,
+          "slug": "various-artists",
+          "picture": null
+        },
+        "artists": [],
+        "upc": "0884977723564",
+        "released_at": 627519600,
+        "label": {
+          "name": "Columbia - Legacy",
+          "id": 4637,
+          "albums_count": 4271,
+          "supplier_id": 23,
+          "slug": "columbia-legacy"
+        },
+        "title": "Top Gun - Motion Picture Soundtrack (Special Expanded Edition)",
+        "qobuz_id": 2719913,
+        "version": null,
+        "url": "https://www.qobuz.com/fr-fr/album/top-gun-motion-picture-soundtrack-special-expanded-edition-various-artists/0884977723564",
+        "duration": 3420,
+        "parental_warning": false,
+        "popularity": 0,
+        "tracks_count": 15,
+        "genre": {
+          "path": [
+            91,
+            92
+          ],
+          "color": "#5eabc1",
+          "name": "Bandas sonoras de cine",
+          "id": 92,
+          "slug": "bandes-originales-de-films"
+        },
+        "maximum_channel_count": 2,
+        "id": "0884977723564",
+        "maximum_sampling_rate": 44.1,
+        "articles": [],
+        "release_date_original": "1989-11-20",
+        "release_date_download": "1989-11-20",
+        "release_date_stream": "1989-11-20",
+        "purchasable": false,
+        "streamable": true,
+        "previewable": true,
+        "sampleable": true,
+        "downloadable": false,
+        "displayable": true,
+        "purchasable_at": null,
+        "streamable_at": 1659236400,
+        "hires": true,
+        "hires_streamable": true
+      },
+      {
+        "maximum_bit_depth": 24,
+        "image": {
+          "small": "https://static.qobuz.com/images/covers/tc/ck/hekdhf7necktc_230.jpg",
+          "thumbnail": "https://static.qobuz.com/images/covers/tc/ck/hekdhf7necktc_50.jpg",
+          "large": "https://static.qobuz.com/images/covers/tc/ck/hekdhf7necktc_600.jpg",
+          "back": null
+        },
+        "media_count": 1,
+        "artist": {
+          "image": null,
+          "name": "Hans Zimmer",
+          "id": 22522,
+          "albums_count": 591,
+          "slug": "hans-zimmer",
+          "picture": null
+        },
+        "artists": [
+          {
+            "id": 22522,
+            "name": "Hans Zimmer",
+            "roles": [
+              "main-artist"
+            ]
+          }
+        ],
+        "upc": "0794043208355",
+        "released_at": 1630620000,
+        "label": {
+          "name": "WaterTower Music",
+          "id": 301754,
+          "albums_count": 728,
+          "supplier_id": 5,
+          "slug": "watertower-music-3"
+        },
+        "title": "The Dune Sketchbook (Music from the Soundtrack)",
+        "qobuz_id": 130403147,
+        "version": null,
+        "url": "https://www.qobuz.com/fr-fr/album/the-dune-sketchbook-music-from-the-soundtrack-hans-zimmer/hekdhf7necktc",
+        "duration": 6105,
+        "parental_warning": false,
+        "popularity": 0,
+        "tracks_count": 9,
+        "genre": {
+          "path": [
+            91,
+            92
+          ],
+          "color": "#5eabc1",
+          "name": "Bandas sonoras de cine",
+          "id": 92,
+          "slug": "bandes-originales-de-films"
+        },
+        "maximum_channel_count": 2,
+        "id": "hekdhf7necktc",
+        "maximum_sampling_rate": 48,
+        "articles": [],
+        "release_date_original": "2021-09-03",
+        "release_date_download": "2021-09-03",
+        "release_date_stream": "2021-09-03",
+        "purchasable": false,
+        "streamable": true,
+        "previewable": true,
+        "sampleable": true,
+        "downloadable": false,
+        "displayable": true,
+        "purchasable_at": null,
+        "streamable_at": 1658718000,
+        "hires": true,
+        "hires_streamable": true
+      },
+      {
+        "maximum_bit_depth": 24,
+        "image": {
+          "small": "https://static.qobuz.com/images/covers/9a/7w/od7jgep3n7w9a_230.jpg",
+          "thumbnail": "https://static.qobuz.com/images/covers/9a/7w/od7jgep3n7w9a_50.jpg",
+          "large": "https://static.qobuz.com/images/covers/9a/7w/od7jgep3n7w9a_600.jpg",
+          "back": null
+        },
+        "media_count": 1,
+        "artist": {
+          "image": null,
+          "name": "Lady Gaga",
+          "id": 61585,
+          "albums_count": 435,
+          "slug": "lady-gaga",
+          "picture": null
+        },
+        "artists": [
+          {
+            "id": 61585,
+            "name": "Lady Gaga",
+            "roles": [
+              "main-artist"
+            ]
+          },
+          {
+            "id": 1575142,
+            "name": "Bradley Cooper",
+            "roles": [
+              "main-artist"
+            ]
+          }
+        ],
+        "upc": "0602577077982",
+        "released_at": 1538690400,
+        "label": {
+          "name": "A Star is Born OST",
+          "id": 251976,
+          "albums_count": 5,
+          "supplier_id": 1,
+          "slug": "a-star-is-born-ost"
+        },
+        "title": "A Star Is Born Soundtrack",
+        "qobuz_id": 54162290,
+        "version": null,
+        "url": "https://www.qobuz.com/fr-fr/album/a-star-is-born-soundtrack-lady-gaga/od7jgep3n7w9a",
+        "duration": 4201,
+        "parental_warning": true,
+        "popularity": 0,
+        "tracks_count": 34,
+        "genre": {
+          "path": [
+            91,
+            92
+          ],
+          "color": "#5eabc1",
+          "name": "Bandas sonoras de cine",
+          "id": 92,
+          "slug": "bandes-originales-de-films"
+        },
+        "maximum_channel_count": 2,
+        "id": "od7jgep3n7w9a",
+        "maximum_sampling_rate": 48,
+        "articles": [],
+        "release_date_original": "2018-10-05",
+        "release_date_download": "2018-10-05",
+        "release_date_stream": "2018-10-05",
+        "purchasable": false,
+        "streamable": true,
+        "previewable": true,
+        "sampleable": true,
+        "downloadable": false,
+        "displayable": true,
+        "purchasable_at": null,
+        "streamable_at": 1658890800,
+        "hires": true,
+        "hires_streamable": true
+      }
+    ]
+  }
+}
